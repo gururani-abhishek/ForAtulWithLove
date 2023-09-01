@@ -1,0 +1,40 @@
+Every programming language deals with data.
+Java way is different,
+
+old ->
+boolean nuts = false/true;
+int color = #digitcolorseq
+boolean chole = false/true;
+class Box {
+int colour = #...
+nuts = true
+chole = true;
+
+chane = true;
+
+
+}
+
+...
+
+(nuts, color, chole, chane, ...) -> (Box)
+
+...
+
+
+
+
+...
+
+
+
+...
+
+
+
+
+...
+
+must read -> JRE, JVM, JDK
+
+only and must one single public stuff(class.....etc)
